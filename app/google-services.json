@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "626985833081",
+    "firebase_url": "https://livestoreapp-2020.firebaseio.com",
+    "project_id": "livestoreapp-2020",
+    "storage_bucket": "livestoreapp-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626985833081:android:791c44638070f850e7baa8",
+        "android_client_info": {
+          "package_name": "com.app.livestoreapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626985833081-nv34u8ba8koqdf1dq2ohr9v70occp2nf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLgytiU0G6kiQ_vzOGYMJMkf-mGu78R-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626985833081-nv34u8ba8koqdf1dq2ohr9v70occp2nf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
